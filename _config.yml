@@ -23,7 +23,7 @@ repository               : "academicpages/rtenderra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tenderra-Rebekka_MPI_5117_Doeller_Lab_square.png"
+  avatar           : "profile.png"
   name             : "Rebekka Tenderra"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive neuroscientist"
