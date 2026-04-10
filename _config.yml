@@ -13,10 +13,10 @@ title                    : "Rebekka Tenderra"
 title_separator          : "-"
 name                     : &name "Rebekka Tenderra"
 description              : &description "Cognitive Neuroscientist"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://rebekka-tenderra.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://rtenderra.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/rebekka-tenderra.github.io"
+repository               : "academicpages/rtenderra.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   name             : "Rebekka Tenderra"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive neuroscientist"
-  location         : "Leipzig / Frankfurt"
+  location         : "Leipzig & Frankfurt"
   employer         : "Max Planck Institute for Cognitive and Brain Sciences"
   uri              : # URL
   email            : "none@example.org" 
