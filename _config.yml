@@ -23,14 +23,14 @@ repository               : "academicpages/rtenderra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Tenderra-Rebekka_MPI_5117_Doeller_Lab_square.png"
   name             : "Rebekka Tenderra"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive neuroscientist"
   location         : "Leipzig & Frankfurt"
-  employer         : "Max Planck Institute for Cognitive and Brain Sciences"
+  employer         : "MPI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rebekka.tenderra@ae.mpg.de" 
 
   # Academic websites
   academia         : # URL
